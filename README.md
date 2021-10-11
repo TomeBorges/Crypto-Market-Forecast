@@ -4,10 +4,10 @@ System to retrieve historical market data from Binance API and machine learning 
 ### Overview:
 This is a complete system entirely developed in python developed as a master thesis in Instituto Superior Técnico (University of Lisbon, Portugal).
 This system contains all steps of the forecasting process:
-1. Data downloading and storing;
+1. Data downloading and storing through Binance's API;
 2. Data cleansing and preprocessing;
-3. Machine Learning training and testing;
-4. Data Visualization;
+3. Machine Learning training (Ensemble of 4 algorithms Logistic Regression, Random Forest, XGBoost & Support Vector Classifier) and testing;
+4. Data Visualization (using Bokeh);
 
 The core file is the obviously named **main.py** file. 
 
