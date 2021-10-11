@@ -16,5 +16,5 @@ To read the full thesis and documentation you can use any of the following links
 - [Springer Books](https://www.springer.com/gp/book/9783030683788?utm_campaign=3_pier05_buy_print&utm_content=en_08082017&utm_medium=referral&utm_source=google_books#otherversion=9783030683795);
 - [Instituto Superior Técnico (Free)](https://fenix.tecnico.ulisboa.pt/cursos/meec/dissertacao/1128253548921836).
 
-**Note:** If you find my work valuable and worth citing in your own work, please use the paper from **Science Direct** in your citations.
+**Note:** If you find my work valuable and worth citing, please use the paper from **Science Direct** in your citations.
 
