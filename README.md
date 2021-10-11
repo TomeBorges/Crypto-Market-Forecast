@@ -1,6 +1,6 @@
 # CryptoMarketForecast
 System to retrieve historical market data from Binance API and machine learning forecasting framework.
-
+![04307e1c-c947-4081-b38d-12d8341a4985](https://user-images.githubusercontent.com/38635941/136774875-342aabf9-a4d7-48e5-8c35-e351efd032d4.jpg)
 ### Overview:
 This is a complete system entirely developed in python developed as a master thesis in Instituto Superior Técnico (University of Lisbon, Portugal).
 This system contains all steps prior to and of the forecasting process:
